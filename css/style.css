@@ -1,0 +1,68 @@
+/* all common css */
+
+*{
+  margin: 0;
+  padding: 0;
+}
+ul,ol{
+  list-style-type: none;
+}
+a{
+  text-decoration: none;
+
+}
+h1,h2,h3,h4,h5,h6,p{
+  margin: 0;
+  padding: 0;
+  line-height: 0.8;
+}
+.container{
+  width: 1320px;
+  margin: 0 auto;
+}
+/* all common css */
+
+/* header part start */
+#headPart{
+  padding: 30px 0px;
+  background: rgb(246, 251, 251);
+}
+.headerFlax{
+  display: flex;
+}
+.logo{
+    width: 15%;
+    
+}
+.menu{
+  width: 60%;
+  text-align: center;
+}
+.icon{
+  width: 25%;
+}
+.menu ul, li{
+  display: inline-block;
+}
+.menu ul, li a{
+  color: black;
+  padding: 0 30px;
+}
+.icon{
+  display: flex;
+  justify-content: end;
+  gap: 30px;
+}
+
+
+
+
+
+
+/* header part End */
+/* header part start */
+/* header part End */
+/* header part start */
+/* header part End */
+/* header part start */
+/* header part End */
